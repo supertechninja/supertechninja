@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Supertechninja's GitHub stats](https://github-readme-stats.vercel.app/api?username=supertechninja)](https://github.com/supertechninja/github-readme-stats&show_icons=true&theme=dark)
+[![Supertechninja's GitHub stats](https://github-readme-stats.vercel.app/api?username=supertechninja&show_icons=true&theme=dark)](https://github.com/supertechninja/github-readme-stats)
 
 <!--
 **supertechninja/supertechninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
